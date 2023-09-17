@@ -73,17 +73,17 @@ experiences:
         time: 2016 - Present
         company: Cisco Webex, Hefei
         details: |
-          Responsibilities
-          1. Architecture design and development of back-end microservices for Cisco Webex products, including but not limited to Meeting Join Service, Meeting Bussiness Service, Site Bussiness Service, and Meeting Registry Service.
-          2. Architecture design and development of the Web front-end of Cisco Webex products, including but not limited to Meeting Portal Page, Meeting Crosslaunch Page, Mobile Crosslaunch Page, and Meeting Management Page.
-          3. Build a Join Meeting Metrics System, analyze Join Meeting Failed Data, build a Meeting Failed Rate Report, and propose improvements to predict possible join failure cases that users may encounter.
-          4. Design and develop Webex front-end and back-end user experience, discuss and formulate improvement plans to reduce user joining time.
-          5. Analyze and test Webex product performance, and formulate improvement plans and goals.
-          Achievements
-            1. Strict quality control--Deeply practice the DDD development model. Every line of code requires sufficient unit boundary testing. Every code checkin requires strict compliance with code specifications. Every function requires TA automated testing. For this reason, The quality indicators of each iteration of our release have achieved good results!
-            2. Strictly control performance--As a world-renowned enterprise-level SaaS conference system, we have always pursued excellent conference joining experience. During the migration process of our conference joining architecture, we used various technical means to add users to conferences. Meeting time is shortened by 50%.
-            3. Architecture migration--I once led the entire process of Join Meeting migration from the old architecture to the new architecture, and successfully obtained quality acceptance and customer recognition!
-            4. Reduce JMF (meeting failure rate)--Participated in analysis and designed plans to foresee users’ failure to join a membership
+          1. Responsibilities
+          1.1 Architecture design and development of back-end microservices for Cisco Webex products, including but not limited to Meeting Join Service, Meeting Bussiness Service, Site Bussiness Service, and Meeting Registry Service.
+          1.2 Architecture design and development of the Web front-end of Cisco Webex products, including but not limited to Meeting Portal Page, Meeting Crosslaunch Page, Mobile Crosslaunch Page, and Meeting Management Page.
+          1.3 Build a Join Meeting Metrics System, analyze Join Meeting Failed Data, build a Meeting Failed Rate Report, and propose improvements to predict possible join failure cases that users may encounter.
+          1.4 Design and develop Webex front-end and back-end user experience, discuss and formulate improvement plans to reduce user joining time.
+          1.5 Analyze and test Webex product performance, and formulate improvement plans and goals.
+          2. Achievements
+          2.1. Strict quality control--Deeply practice the DDD development model. Every line of code requires sufficient unit boundary testing. Every code checkin requires strict compliance with code specifications. Every function requires TA automated testing. For this reason, The quality indicators of each iteration of our release have achieved good results!
+          2.2. Strictly control performance--As a world-renowned enterprise-level SaaS conference system, we have always pursued excellent conference joining experience. During the migration process of our conference joining architecture, we used various technical means to add users to conferences. Meeting time is shortened by 50%.
+          2.3. Architecture migration--I once led the entire process of Join Meeting migration from the old architecture to the new architecture, and successfully obtained quality acceptance and customer recognition!
+          2.4. Reduce JMF (meeting failure rate)--Participated in analysis and designed plans to foresee users’ failure to join a membership
      
       - role: System Architect
         time: 2014 - 2016
