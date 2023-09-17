@@ -79,6 +79,7 @@ experiences:
           3. Build a Join Meeting Metrics System, analyze Join Meeting Failed Data, build a Meeting Failed Rate Report, and propose improvements to predict possible join failure cases that users may encounter.
           4. Design and develop Webex front-end and back-end user experience, discuss and formulate improvement plans to reduce user joining time.
           5. Analyze and test Webex product performance, and formulate improvement plans and goals.
+        details: |
           Achievements
             1.Strict quality control--Deeply practice the DDD development model. Every line of code requires sufficient unit boundary testing. Every code checkin requires strict compliance with code specifications. Every function requires TA automated testing. For this reason, The quality indicators of each iteration of our release have achieved good results!
             2. Strictly control performance--As a world-renowned enterprise-level SaaS conference system, we have always pursued excellent conference joining experience. During the migration process of our conference joining architecture, we used various technical means to add users to conferences. Meeting time is shortened by 50%.
