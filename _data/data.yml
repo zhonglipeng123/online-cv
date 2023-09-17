@@ -54,12 +54,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      1. Technical enthusiasm: strong learning ability, passionate about new technologies and new things! Nearly fifteen years of working experience in the technical field has given me a clear understanding of relevant technologies and trends in the web development industry. I especially have rich experience in Java Spring and the front-end Vue technology stack, and I am familiar with the technological evolution and technology selection of the front and back ends of the web. type.
+      2. Team collaboration: Responsible for the front-end and back-end architecture and development of Webex, a product with millions of users. In order to meet customer needs, coordinate cooperation and communication among teams from different cultures, countries and regions to improve work efficiency and meet customer requirements.
+      3. Technical capabilities: Familiar with the front-end and back-end technology stacks, and have completed product requirements from 0 to 1 many times. Familiar with Java Javascript Python language, has rich accumulation in the field of Java microservices, and has rich practical experience in Spring Boot, Spring Cloud and other technology stacks. At the same time, I has led and successfully introduced Vue into Webex products in the front-end field, providing customers with The user experience has been qualitatively improved.
+      4. User experience: I have strict attitudes and requirements for user experience. The convenience and user habits of end users are my priority factors in designing products and architecture. And track user behavior and product experience through metrics after the product is launched. He has rich experience in the development of high-performance, high-availability, and high-concurrency applications. This is not only the responsibility of back-end services, but the design of the front-end is also crucial.
 education:
     title: Education
     info:
