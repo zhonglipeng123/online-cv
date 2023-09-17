@@ -74,7 +74,8 @@ experiences:
         company: Cisco Webex, Hefei
         details: |
           1. Responsibilities
-          1.1 Architecture design and development of back-end microservices for Cisco Webex products, including but not limited to Meeting Join Service, Meeting Bussiness Service, Site Bussiness Service, and Meeting Registry Service.
+          1.1 Architecture design and development of back-end microservices for Cisco Webex products, including but not limited to Meeting Join Service, Meeting Bussiness Service, Site Bussiness Service, and Meeting Registry Service.  
+          
           1.2 Architecture design and development of the Web front-end of Cisco Webex products, including but not limited to Meeting Portal Page, Meeting Crosslaunch Page, Mobile Crosslaunch Page, and Meeting Management Page.
           1.3 Build a Join Meeting Metrics System, analyze Join Meeting Failed Data, build a Meeting Failed Rate Report, and propose improvements to predict possible join failure cases that users may encounter.
           1.4 Design and develop Webex front-end and back-end user experience, discuss and formulate improvement plans to reduce user joining time.
