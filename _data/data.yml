@@ -85,10 +85,10 @@ experiences:
           1. Strict quality control: Deeply practice the DDD development model. Every line of code requires sufficient unit boundary testing. Every code checkin requires strict compliance with code specifications. Every function requires TA automated testing. For this reason, The quality indicators of each iteration of our release have achieved good results!
           2. Strictly control performance: As a world-renowned enterprise-level SaaS conference system, we have always pursued excellent conference joining experience. During the migration process of our conference joining architecture, we used various technical means to add users to conferences. Meeting time is shortened by 50%.
           3. Architecture migration: I once led the entire process of Join Meeting migration from the old architecture to the new architecture, and successfully obtained quality acceptance and customer recognition!
-          4. Reduce JMF (meeting failure rate): Participated in analysis and designed plans to foresee users’ failure to join a membership
+          4. Reduce JMF (meeting failure rate): Participated in analysis and designed plans to foresee users’ failure to join a meeting.
      
       - role: System Architect
-        time: 2014 - 2016
+        time: 2015 - 2016
         company: Tianyuan Dic Information Technology Co.,Ltd., Hefei
         details: |
           1. Architectural design and technical research of big data platform
@@ -97,7 +97,7 @@ experiences:
           4. Architectural design of ETL platform
           
       - role: Senior Software Engineer
-        time: 2012 - 2014
+        time: 2013 - 2015
         company: Mediatek, Hefei
         details: |
           1. Design and development of MediaTek Android native App (Java based)
