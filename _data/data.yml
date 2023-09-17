@@ -213,10 +213,7 @@ skills:
       - name: Micro service Artchitecture
         level: 98%
         
-      - name: Javascript
-        level: 98%
-
-      - name: VueJs
+      - name: Javascript & VueJs
         level: 98%
 
       - name: HTML5 & CSS
